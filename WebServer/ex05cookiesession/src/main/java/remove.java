@@ -20,5 +20,7 @@ public class remove extends HttpServlet {
 		
 		// ex02getcookie.jsp로 다시 이동
 		response.sendRedirect("ex02getcookie.jsp");
+		
+		// check
 	}
 }
